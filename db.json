@@ -1,0 +1,12 @@
+{
+    "development": {
+      "username": "root",
+      "password": "fmk120697",
+      "database": "CCDI",
+      "host": "localhost",
+      "dialect": "mysql"
+    },
+    "production": {
+      
+    }
+  }
